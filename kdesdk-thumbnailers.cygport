@@ -1,0 +1,10 @@
+inherit kde4
+
+NAME="kdesdk-thumbnailers"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE gettext catalog thumbnailer"
+DESCRIPTION="Part of the KDE developer tools suite"
+
+OBSOLETES="kde-thumbnailer-po"
